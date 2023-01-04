@@ -1,4 +1,4 @@
-0x01-python-if_else_loops_functions
+#!/usr/bin/python3
 # Author - Godswill Kalu
 
 i = 0
