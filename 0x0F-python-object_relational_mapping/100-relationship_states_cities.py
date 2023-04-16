@@ -2,6 +2,9 @@
 """
 Creates the State “California” with the City “San Francisco”
 from the database hbtn_0e_100_usa.
+Two files re also added
+relationship_city.py
+relationship_state.py
 """
 import sys
 from sqlalchemy import create_engine

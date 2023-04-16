@@ -1,5 +1,10 @@
-#!/usr/bin/python3
+i#!/usr/bin/python3
 """ prints the State object with the name passed as argument from the database
+Your script should also be containing 4 argum,ents: 
+    password
+    password
+    database
+    state name
 """
 import sys
 from model_state import Base, State

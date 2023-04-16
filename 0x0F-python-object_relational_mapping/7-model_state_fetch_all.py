@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Start link class to table in database
+"""
+Listin all the states California, Arizona, Texas, New York, Nevada
 """
 import sys
 from model_state import Base, State

@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """
+Give a cleare comparison between different states in the time zone
 Contains State class and Base, an instance of declarative_base()
 """
 from sqlalchemy import Column, Integer, String, MetaData

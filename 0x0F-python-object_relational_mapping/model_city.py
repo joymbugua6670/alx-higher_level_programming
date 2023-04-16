@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-Defines a City model.
-Inherits from SQLAlchemy Base and links to the MySQL table cities.
+This code defines the city model
+Inherits from SQLAlchemy Base
 """
 
 from sqlalchemy import Column, ForeignKey, Integer, String

@@ -1,9 +1,8 @@
 #!/usr/bin/python3
 """
-Lists all City objects from the database hbtn_0e_101_usa.
-Usage: ./102-relationship_cities_states_list.py <mysql username> /
-                                                <mysql password> /
-                                                <database name>
+a script that lists all City objects from the database hbtn_0e_101_usa
+Your script should take 3 arguments: mysql username, mysql password and database name
+use the module SQLAlchemy
 """
 import sys
 from sqlalchemy import create_engine

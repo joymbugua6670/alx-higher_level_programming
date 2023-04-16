@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-""" prints the State object with the name passed as argument from the database
+"""
+prints the code together with the objects in the arguments
+the lists prints states and cities
 """
 import sys
 from relationship_state import Base, State

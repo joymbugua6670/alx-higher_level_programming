@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-""" prints the State object with the name passed as argument from the database
+"""
+script that adds the State object “Louisiana” to the database hbtn_0e_6_usa
+that  take 3 arguments: mysql username, mysql password and database name
+module SQLAlchemy
 """
 import sys
 from model_state import Base, State
