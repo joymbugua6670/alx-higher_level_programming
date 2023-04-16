@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-print("The following will contain lists all states from the database hbtn_0e_0_usa")
+//The following will contain lists all states from the database hbtn_0e_0_usa
 
 import MySQLdb
 import sys
