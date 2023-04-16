@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
 The script takes in the name of a state as an argument and lists all cities of that state, using the database hbtn_0e_4_usa
-The script takes 4 arguments"""
+The script takes 4 arguments
+"""
 
 import sys
 import MySQLdb
