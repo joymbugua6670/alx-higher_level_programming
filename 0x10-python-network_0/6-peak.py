@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Technical interview preparation
 """task 6 modele"""
 
 

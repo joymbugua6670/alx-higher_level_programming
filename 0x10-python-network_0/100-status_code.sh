@@ -1,3 +1,3 @@
 #!/bin/bash
-# sends a req to $1 URL, display response status code only
+# Bash script that sends a request to the URL. passed an argument and displays only the status code
 curl -s -o /dev/null -w "%{http_code}" "$1"
